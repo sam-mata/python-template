@@ -1,28 +1,59 @@
-# TITLE
+# PROJECT TITLE
 
-> Blurb
+> [!WARNING]  
+> [`.github/labeler.yml`](.github/labeler.yml) needs to be configured properly.
 
-## Overview
+> [!WARNING]  
+> Installation links for cloning and downloading need to be set properly.
 
-> List file paths, explain project structure etc.
+> [!TIP]
+> Write a short introduction to the project here.
 
-## Dataset / Tools
+---
 
-> Talk about tools and datasets used.
+## 1. Project Structure
 
-## Installation
+-   [`.github`](.github) - Project workflows, templates, and actions for the repository.
+-   [`data`](data) - Project datasets.
+-   [`scripts`](scripts) - Project Scripts
+-   [`tests`](tests) - Unit tests
+-   [`requirements.txt`](requirements.txt) - Project Dependencies
+
+---
+
+## 2. Dataset / Tools
+
+> [!TIP]
+> Link to any used datasets.
+
+| **NAME** | **TYPE** | **USAGE** | **DOCS** |
+| -------- | -------- | --------- | -------- |
+|          |          |           |          |
+|          |          |           |          |
+|          |          |           |          |
+|          |          |           |          |
+|          |          |           |          |
+|          |          |           |          |
+
+---
+
+## 3. Installation
+
+After [**cloning the repository**](x-github-client://openRepo/https://github.com/sam-mata/python-template) or [**downloading a zip version**](https://github.com/sam-mata/python-template/archive/refs/heads/main.zip), the project requires several libraries to be installed, this can be done with the following command:
 
 ```python
     pip install -r requirements.txt
 ```
 
-## Usage
+---
 
-> Usage Instructions
+## 4. Usage
 
-## Authorship
+> [!TIP]
+> Detail usage instructions.
 
-> Authors
+---
 
-> [!NOTE] TODO:
-> [`.github/labeler.yml`](.github/labeler.yml) needs to be configured properly.
+## 5. Authorship
+
+All development completed by **@sam-mata**, created with my custom [**Python Project Template**](https://github.com/sam-mata/python-template).
