@@ -7,7 +7,7 @@
 > Installation links for cloning and downloading need to be set properly.
 
 > [!WARNING]  
-> [`CODEOWNERS`] should be updated to your username.
+> [`.github/CODEOWNERS`](.github/CODEOWNERS) should be updated to your username.
 
 > Write a short introduction to the project here.
 
