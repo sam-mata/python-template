@@ -6,7 +6,9 @@
 > [!WARNING]  
 > Installation links for cloning and downloading need to be set properly.
 
-> [!TIP]
+> [!WARNING]  
+> [`CODEOWNERS`] should be updated to your username.
+
 > Write a short introduction to the project here.
 
 ---
@@ -39,17 +41,16 @@
 
 ## 3. Installation
 
-After [**cloning the repository**](x-github-client://openRepo/https://github.com/sam-mata/python-template) or [**downloading a zip version**](https://github.com/sam-mata/python-template/archive/refs/heads/main.zip), the project requires several libraries to be installed, this can be done with the following command:
+1. After [**cloning the repository**](x-github-client://openRepo/https://github.com/sam-mata/python-template) or [**downloading a zip version**](https://github.com/sam-mata/python-template/archive/refs/heads/main.zip), the project requires several libraries to be installed, this can be done with the following command:
 
-```python
+2. ```python
     pip install -r requirements.txt
-```
+   ```
 
 ---
 
 ## 4. Usage
 
-> [!TIP]
 > Detail usage instructions.
 
 ---
