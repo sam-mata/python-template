@@ -1,1 +1,1 @@
-numpy
+generate with pipreqs
